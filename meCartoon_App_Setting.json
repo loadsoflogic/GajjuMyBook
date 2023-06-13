@@ -12,7 +12,7 @@
       "admob_native": "ca-app-pub-3940256099942544/2247696110",
       "admob_open": "ca-app-pub-3940256099942544/3419835294",
       "admob_video": "ca-app-pub-3940256099942544/5224354917",
-      "show_ads": "yes",
+      "show_ads": "no",
       "play_store_update": "no",
       "ads_time": 9,
       "banner_ads_show": "yes",
