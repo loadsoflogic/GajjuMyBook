@@ -15,6 +15,7 @@
       "show_ads": "yes",
       "play_store_update": "no",
       "ads_time": 9,
+      "video_ads_show": "yes",
       "banner_ads_show": "yes",
       "full_ads_show": "yes",
       "native_ads_show": "yes",
