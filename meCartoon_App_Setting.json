@@ -1,9 +1,9 @@
 {
   "data": [
     {
-      "app_version": 4,
+      "app_version": 5,
       "update_title": "App Update",
-      "update_des": "➺ Remove Some Ads ...\r\n➺ Add New meCrtoon Face...\r\n➺ Father's Day Filter & Frame Add...\r\n➺ Improve App Perfomence...\r\n➺ For more features and a batter user experience.\r\nPlease Upgrade your App.\r\n\r\nThank you...",
+      "update_des": "➺ New Filter Add (now you can also filter template) ...\r\n➺ Add New 100+ meCrtoon Face...\r\n➺ eid Filter & Frame Add...\r\n➺ Improve App Perfomence...\r\n➺ In App Disclaim Add...\r\n➺ Policy change...\r\n➺ For more features and a batter user experience.\r\nPlease Upgrade your App.\r\n\r\nThank you...",
       "app_stop": "no",
       "app_stop_title": "Under Maintenance",
       "app_stop_des": "We are currently Updating our service and Adding soon cool new features.\r\nWe will be back shortly.\r\n\r\nThank you...",
@@ -19,15 +19,15 @@
       "banner_ads_show": "yes",
       "full_ads_show": "yes",
       "native_ads_show": "yes",
-      "my_ad_show": "no",
-      "my_ad_name": "Quotes Images",
-      "my_ad_logo": "https://play-lh.googleusercontent.com/U5EAApBU9fxvXdPLMRs7cHFvjFGaFcRUZpm3PqFTW87A8NXIrkJDlaNjVqzC0lOdikFe=w240-h480-rw",
-      "my_ad_pkg": "gujarati.suvichar.status.quotes"
+      "my_ad_show": "yes",
+      "my_ad_name": "Hindi Quotes",
+      "my_ad_logo": "https://play-lh.googleusercontent.com/wTKPsU5_aqbl34xMnlCDsVidUyAcItkJOD9l0DZSPVpBYaQdO4qnJcSZmsHgY5o37XU=w240-h480-rw",
+      "my_ad_pkg": "com.hindi.quotes.status"
     }
   ],
     
   "temp_list": [
-        {
+         {
             "id": 2,
             "template_id": 26680620,
             "create_img": "https://storage.ws.pho.to/s2/445f3edb7d9f94b73d65151fd6c8a22d3c6dd5b4_m.jpg",
@@ -1777,6 +1777,366 @@
             "id": 293,
             "template_id": 26780350,
             "create_img": "https://storage.ws.pho.to/s2/a3db8e1a6a1ad11b5b24a136b442692988888f8b_m.jpg",
+            "lock": 1
+        },
+        {
+            "id": 294,
+            "template_id": 26822310,
+            "create_img": "https://storage.ws.pho.to/s2/02a64faad6638c2e30ae02c03864e107d11bf9f8_m.jpg",
+            "lock": 0
+        },
+        {
+            "id": 295,
+            "template_id": 26825986,
+            "create_img": "https://storage.ws.pho.to/s2/9198b2491f49e3f4b5281109d5a73479287672da_m.jpg",
+            "lock": 1
+        },
+        {
+            "id": 296,
+            "template_id": 26825894,
+            "create_img": "https://storage.ws.pho.to/s2/ed5b5da35baa0cd8c813e417c4e9ead2455e3a66_m.jpeg",
+            "lock": 0
+        },
+        {
+            "id": 297,
+            "template_id": 26825314,
+            "create_img": "https://storage.ws.pho.to/s2/d876348811fbd4ff20d14e25c763c3e6ebba0750_m.jpg",
+            "lock": 1
+        },
+        {
+            "id": 298,
+            "template_id": 26824333,
+            "create_img": "https://storage.ws.pho.to/s2/b8a9a738d9b8d8bee65cf5439a9c300d18e9f321_m.jpg",
+            "lock": 1
+        },
+        {
+            "id": 299,
+            "template_id": 26825435,
+            "create_img": "https://storage.ws.pho.to/s2/2e808e61986ad829941a9a3628c9a7156c51caed_m.jpg",
+            "lock": 0
+        },
+        {
+            "id": 300,
+            "template_id": 26821379,
+            "create_img": "https://storage.ws.pho.to/s2/7c11aff9eea7dd76f33ff6f82c9c695b2133ed30_m.jpg",
+            "lock": 1
+        },
+        {
+            "id": 301,
+            "template_id": 26821288,
+            "create_img": "https://storage.ws.pho.to/s2/0a8df81e8109f04847349a2ecb861ec0ea669103_m.jpg",
+            "lock": 0
+        },
+        {
+            "id": 302,
+            "template_id": 26825008,
+            "create_img": "https://storage.ws.pho.to/s2/8ec5cc13a2d41f412497e0debac7c0c022432923_m.jpeg",
+            "lock": 0
+        },
+        {
+            "id": 303,
+            "template_id": 26825848,
+            "create_img": "https://storage.ws.pho.to/s2/503a4786e4aad40b9a77b5d683a71e6ef1599aee_m.jpeg",
+            "lock": 1
+        },
+        {
+            "id": 304,
+            "template_id": 26825985,
+            "create_img": "https://storage.ws.pho.to/s2/711a63afc8051f30cf21ce6767466977cdac6ec9_m.jpg",
+            "lock": 1
+        },
+        {
+            "id": 305,
+            "template_id": 26825994,
+            "create_img": "https://storage.ws.pho.to/s2/9d508aa46c6600426ea39b92e1530521f3f7b23a_m.jpg",
+            "lock": 1
+        },
+        {
+            "id": 306,
+            "template_id": 26825998,
+            "create_img": "https://storage.ws.pho.to/s2/c8004c337a008033c2595db40e940a8a8bbf99b7_m.jpg",
+            "lock": 1
+        },
+        {
+            "id": 307,
+            "template_id": 26825992,
+            "create_img": "https://storage.ws.pho.to/s2/3a82540b147c2cb6d2e4d873e7a3db9a47325257_m.jpg",
+            "lock": 1
+        },
+        {
+            "id": 308,
+            "template_id": 26825878,
+            "create_img": "https://storage.ws.pho.to/s2/29eb39b2d4496f14472eccf52763aa1cc0ed07cd_m.jpeg",
+            "lock": 0
+        },
+        {
+            "id": 309,
+            "template_id": 26825479,
+            "create_img": "https://storage.ws.pho.to/s2/5d688d0ea55eed550482e5356e1a49ef6ed8fc39_m.jpg",
+            "lock": 0
+        },
+        {
+            "id": 310,
+            "template_id": 26825417,
+            "create_img": "https://storage.ws.pho.to/s2/e9ae9cbf09d257b0fa713950a52d7521bbb14588_m.jpg",
+            "lock": 1
+        },
+        {
+            "id": 311,
+            "template_id": 26824796,
+            "create_img": "https://storage.ws.pho.to/s2/8209404a9834adceeb5ba6f72db0a8424a467d24_m.jpg",
+            "lock": 1
+        },
+        {
+            "id": 312,
+            "template_id": 26825898,
+            "create_img": "https://storage.ws.pho.to/s2/75b8b30ede5ada46b8e6c46f76ff746b22b73566_m.jpeg",
+            "lock": 1
+        },
+        {
+            "id": 313,
+            "template_id": 26814600,
+            "create_img": "https://storage.ws.pho.to/s2/063d5f874b5790f54f103e35ee368476661096c8_m.jpg",
+            "lock": 1
+        },
+        {
+            "id": 314,
+            "template_id": 26800477,
+            "create_img": "https://storage.ws.pho.to/s2/ecdb0b196bb210817a42d4866649dfab54d152eb_m.jpg",
+            "lock": 0
+        },
+        {
+            "id": 315,
+            "template_id": 26819731,
+            "create_img": "https://storage.ws.pho.to/s2/bbbd925cd665466dafd5bf5f34e72bf1feca9aa5_m.jpg",
+            "lock": 1
+        },
+        {
+            "id": 316,
+            "template_id": 26786932,
+            "create_img": "https://storage.ws.pho.to/s2/253ba07ab91b4ba0a92da97608969bd125ee9f3f_m.jpg",
+            "lock": 0
+        },
+        {
+            "id": 317,
+            "template_id": 26812861,
+            "create_img": "https://storage.ws.pho.to/s2/8377f05156f9cd4d03a1ac5ac9865ccb07623e80_m.jpg",
+            "lock": 1
+        },
+        {
+            "id": 318,
+            "template_id": 26812252,
+            "create_img": "https://storage.ws.pho.to/s2/b30936d8515affe2691bb3057b85a632daf50de2_m.jpg",
+            "lock": 1
+        },
+        {
+            "id": 319,
+            "template_id": 24523282,
+            "create_img": "https://storage.ws.pho.to/s2/065bcb6f0897b782b60197d1162a6abf758f3155_m.jpg",
+            "lock": 1
+        },
+        {
+            "id": 320,
+            "template_id": 26818552,
+            "create_img": "https://storage.ws.pho.to/s2/d1c1ac09ce8c7392a4a213a9c66b3b1c586905d5_m.jpeg",
+            "lock": 1
+        },
+        {
+            "id": 321,
+            "template_id": 26814812,
+            "create_img": "https://storage.ws.pho.to/s2/6397b1ecf378e32ee6971656cabf49ba6e1096e0_m.jpg",
+            "lock": 0
+        },
+        {
+            "id": 322,
+            "template_id": 26787805,
+            "create_img": "https://storage.ws.pho.to/s2/e6ec57cf7a831828cec4eefe35c78ff991b6fd8c_m.png",
+            "lock": 1
+        },
+        {
+            "id": 323,
+            "template_id": 26808900,
+            "create_img": "https://storage.ws.pho.to/s2/a269b330003323749c006db2e192bf1ec78b88e3_m.jpg",
+            "lock": 1
+        },
+        {
+            "id": 324,
+            "template_id": 26815190,
+            "create_img": "https://storage.ws.pho.to/s2/7deff89f19b11b31ff869064fde3ac74e6f143e9_m.jpg",
+            "lock": 0
+        },
+        {
+            "id": 325,
+            "template_id": 26820824,
+            "create_img": "https://storage.ws.pho.to/s2/67356fc501db814a46bd29bc2932df0fe9debc03_m.jpg",
+            "lock": 1
+        },
+        {
+            "id": 326,
+            "template_id": 26819547,
+            "create_img": "https://storage.ws.pho.to/s2/df70a7bdcb5df41caf6a020e2947907e8bfcae48_m.jpg",
+            "lock": 0
+        },
+        {
+            "id": 327,
+            "template_id": 26603508,
+            "create_img": "https://storage.ws.pho.to/s2/54ee81823bc8f47a47367b7d988ac4f4718c18de_m.jpg",
+            "lock": 1
+        },
+        {
+            "id": 328,
+            "template_id": 26811871,
+            "create_img": "https://storage.ws.pho.to/s2/d05f884d505366194c1ac82932992cdb66c42194_m.jpg",
+            "lock": 1
+        },
+        {
+            "id": 329,
+            "template_id": 26786769,
+            "create_img": "https://storage.ws.pho.to/s2/bae4146b3921e9b04ac4267984b117da3856eb3f_m.png",
+            "lock": 1
+        },
+        {
+            "id": 330,
+            "template_id": 26796238,
+            "create_img": "https://storage.ws.pho.to/s2/965a66defd8ae717be8c0b387a72ed857dfe724b_m.jpeg",
+            "lock": 1
+        },
+        {
+            "id": 331,
+            "template_id": 26805464,
+            "create_img": "https://storage.ws.pho.to/s2/92d7b80ebf140d26446964686c559d16a4ea4b38_m.jpg",
+            "lock": 1
+        },
+        {
+            "id": 332,
+            "template_id": 26475326,
+            "create_img": "https://storage.ws.pho.to/s2/377352ef8cfc2d0de39d2fdbc48f497071a584c6_m.jpeg",
+            "lock": 1
+        },
+        {
+            "id": 333,
+            "template_id": 26375995,
+            "create_img": "https://storage.ws.pho.to/s2/66858cacf5557dcdb6fc16d159886863d815d8bb_m.png",
+            "lock": 1
+        },
+        {
+            "id": 334,
+            "template_id": 26471777,
+            "create_img": "https://storage.ws.pho.to/s2/a3c16386bf04d224a8c6972355abcd6402a8bfd1_m.jpg",
+            "lock": 1
+        },
+        {
+            "id": 335,
+            "template_id": 26502592,
+            "create_img": "https://storage.ws.pho.to/s2/d2f2d24a9ee8d4e0a5c4b7406199620331e795a9_m.png",
+            "lock": 1
+        },
+        {
+            "id": 336,
+            "template_id": 26381332,
+            "create_img": "https://storage.ws.pho.to/s2/2e6b8eecda68419ed4b31feb0c5c0b7c8dfc36a5_m.jpg",
+            "lock": 1
+        },
+        {
+            "id": 337,
+            "template_id": 26827507,
+            "create_img": "https://storage.ws.pho.to/s2/c38ca80ef73ac7db0e451dc2562176046d024963_m.jpg",
+            "lock": 1
+        },
+        {
+            "id": 338,
+            "template_id": 26754590,
+            "create_img": "https://storage.ws.pho.to/s2/fa48ea935ee52596402c916a8b6c96467c4ef913_m.png",
+            "lock": 1
+        },
+        {
+            "id": 339,
+            "template_id": 26770198,
+            "create_img": "https://storage.ws.pho.to/s2/8a2864965f6139db5fb8e868e87bcfc1159d9481_m.jpeg",
+            "lock": 1
+        },
+        {
+            "id": 340,
+            "template_id": 26369810,
+            "create_img": "https://storage.ws.pho.to/s2/439ec287e2bd23cf5687540611c9836829ad60af_m.png",
+            "lock": 1
+        },
+        {
+            "id": 341,
+            "template_id": 26517736,
+            "create_img": "https://storage.ws.pho.to/s2/dc2750db0ac9f55231b6f7076a918cff00623b7c_m.jpg",
+            "lock": 1
+        },
+        {
+            "id": 342,
+            "template_id": 26668528,
+            "create_img": "https://storage.ws.pho.to/s2/0337489b618635dc9388e8d28876e197fccfbfd6_m.jpeg",
+            "lock": 1
+        },
+        {
+            "id": 343,
+            "template_id": 26404520,
+            "create_img": "https://storage.ws.pho.to/s2/2cff5b9598a54296999764e7aacb9c8f4a1f3a8c_m.jpg",
+            "lock": 1
+        },
+        {
+            "id": 344,
+            "template_id": 26404817,
+            "create_img": "https://storage.ws.pho.to/s2/54a6c23d0b03b0403e279147a2cb0e64b36f4809_m.png",
+            "lock": 1
+        },
+        {
+            "id": 345,
+            "template_id": 26421591,
+            "create_img": "https://storage.ws.pho.to/s2/bc106e8c624283c1259c923e09dab3dce45bec28_m.jpg",
+            "lock": 1
+        },
+        {
+            "id": 346,
+            "template_id": 26642973,
+            "create_img": "https://storage.ws.pho.to/s2/497d323348486a4b2e146e0ca09d261a7b7ff5d9_m.jpg",
+            "lock": 1
+        },
+        {
+            "id": 347,
+            "template_id": 26382144,
+            "create_img": "https://storage.ws.pho.to/s2/c7916387f82c63c033ba51e83d4f8a16d7b931c1_m.png",
+            "lock": 1
+        },
+        {
+            "id": 348,
+            "template_id": 26382040,
+            "create_img": "https://storage.ws.pho.to/s2/f756376aaab3a533c3d84692ae5aa8970a9cc1ca_m.png",
+            "lock": 1
+        },
+        {
+            "id": 349,
+            "template_id": 26368576,
+            "create_img": "https://storage.ws.pho.to/s2/33ce2f05cb81f718db475edfc1789788b8c7ff74_m.jpg",
+            "lock": 1
+        },
+        {
+            "id": 350,
+            "template_id": 26424952,
+            "create_img": "https://storage.ws.pho.to/s2/ef30d6e2e8ecf3d1b11188b972af59a7c3859f41_m.jpg",
+            "lock": 1
+        },
+        {
+            "id": 351,
+            "template_id": 26376001,
+            "create_img": "https://storage.ws.pho.to/s2/32fa9f4ea6f5e528e77395dd444a27d13545c810_m.png",
+            "lock": 1
+        },
+        {
+            "id": 352,
+            "template_id": 26806269,
+            "create_img": "https://storage.ws.pho.to/s2/0f7e97d7bb1021a4fcd51061fc9654e24ddb3fe5_m.jpg",
+            "lock": 0
+        },
+        {
+            "id": 353,
+            "template_id": 26827562,
+            "create_img": "https://storage.ws.pho.to/s2/44e0ec6939eba3056affe62cba11533258c36193_m.jpeg",
             "lock": 1
         }
   ]
