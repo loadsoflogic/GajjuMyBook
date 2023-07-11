@@ -1,1 +1,60 @@
-
+{
+        "category_data": [
+            {
+                "id": "attitude",
+                "name": "Attitude",
+                "img": "attitude.png"
+            },
+            {
+                "id": "cool",
+                "name": "Cool",
+                "img": "cool.png"
+            },
+            {
+                "id": "bad",
+                "name": "Bad",
+                "img": "bad.png"
+            },
+            {
+                "id": "sad",
+                "name": "Sad",
+                "img": "sad.png"
+            },
+            {
+                "id": "dosti",
+                "name": "Dosti",
+                "img": "dosti.png"
+            },
+            {
+                "id": "love",
+                "name": "Love",
+                "img": "love.png"
+            },
+            {
+                "id": "english",
+                "name": "English",
+                "img": "english.png"
+            },
+            {
+                "id": "killer",
+                "name": "Killer",
+                "img": "killer.png"
+            },
+            {
+                "id": "royal",
+                "name": "Royal",
+                "img": "royal.png"
+            },
+            {
+                "id": "funny",
+                "name": "Funny",
+                "img": "funny.png"
+            },
+            {
+                "id": "other",
+                "name": "Other",
+                "img": "other.png"
+            }
+        ]
+    
+}
