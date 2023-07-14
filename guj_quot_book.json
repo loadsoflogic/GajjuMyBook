@@ -20,9 +20,9 @@
             "full_ads_show": "yes",
             "native_ad_count": 7,
             "my_ad_show": "yes",
-            "my_ad_name": "Hindi Quotes",
-            "my_ad_logo": "https://play-lh.googleusercontent.com/wTKPsU5_aqbl34xMnlCDsVidUyAcItkJOD9l0DZSPVpBYaQdO4qnJcSZmsHgY5o37XU=w240-h480-rw",
-            "my_ad_pkg": "com.hindi.quotes.status"
+            "my_ad_name": "Attitude Status",
+            "my_ad_logo": "https://lh3.googleusercontent.com/HojiGrOJQtLfmYOjpjKLc9yQruxPN0H1p3m-H_fPMt3kN5wWdtV6rSBdwNRViVqzebJC",
+            "my_ad_pkg": "hindi.attitude.status.shayari"
         }
     ]
 }
