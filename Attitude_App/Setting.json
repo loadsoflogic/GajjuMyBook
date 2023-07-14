@@ -16,7 +16,7 @@
       "admob_open_id": "ca-app-pub-3940256099942544/3419835294",
       "admob_video_id": "",
       
-      "show_ads": "yes",
+      "show_ads": "no",
       "ads_time": 3,
       "native_ad_count": 7,
       "open_ad_break": 3,
@@ -26,7 +26,7 @@
       "full_ads_show": "yes",
       "native_ads_show": "yes",
 	  
-      "my_ad_show": "yes",
+      "my_ad_show": "no",
       "my_ad_name": "Hindi Quotes",
       "my_ad_des": "Hindi Quotes has the largest collection of Hindi status.",
       "my_ad_logo": "https://play-lh.googleusercontent.com/wTKPsU5_aqbl34xMnlCDsVidUyAcItkJOD9l0DZSPVpBYaQdO4qnJcSZmsHgY5o37XU=w240-h480-rw",
