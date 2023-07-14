@@ -1,19 +1,19 @@
 {
   "data": [
     {
-      "app_version": 1,
+      "app_version": 2,
       "fix_update": "no",
       "update_title": "App Update",
-      "update_des": "➺ New Filter Add (now you can also filter template) ...\r\n➺ Add New 100+ meCrtoon Face...\r\n➺ eid Filter & Frame Add...\r\n➺ Improve App Perfomence...\r\n➺ In App Disclaim Add...\r\n➺ Policy change...\r\n➺ For more features and a batter user experience.\r\nPlease Upgrade your App.\r\n\r\nThank you...",
+      "update_des": "➺ For more features and a batter user experience.\r\nPlease Upgrade your App.\r\n\r\nThank you...",
       "app_stop": "no",
       "app_stop_title": "Under Maintenance",
       "app_stop_des": "We are currently Updating our service and Adding soon cool new features.\r\nWe will be back shortly.\r\n\r\nThank you...",
       "play_store_update": "no",
 			
-      "admob_banner_id": "ca-app-pub-3940256099942544/6300978111",
-      "admob_full_id": "ca-app-pub-3940256099942544/1033173712",
-      "admob_native_id": "ca-app-pub-3940256099942544/2247696110",
-      "admob_open_id": "ca-app-pub-3940256099942544/3419835294",
+      "admob_banner_id": "ca-app-pub-9536092479908561/5412334813",
+      "admob_full_id": "ca-app-pub-9536092479908561/4064697776",
+      "admob_native_id": "ca-app-pub-9536092479908561/6711042419",
+      "admob_open_id": "ca-app-pub-9536092479908561/4576150891",
       "admob_video_id": "",
       
       "show_ads": "yes",
