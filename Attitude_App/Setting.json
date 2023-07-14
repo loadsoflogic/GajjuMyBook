@@ -16,13 +16,13 @@
       "admob_open_id": "ca-app-pub-3940256099942544/3419835294",
       "admob_video_id": "",
       
-      "show_ads": "no",
+      "show_ads": "yes",
       "ads_time": 10,
       "native_ad_count": 10,
       "open_ad_break": 10,
       "copy_full_ad_show": 10,
 	  
-      "video_ads_show": "yes",
+      "video_ads_show": "no",
       "banner_ads_show": "yes",
       "full_ads_show": "yes",
       "native_ads_show": "yes",
