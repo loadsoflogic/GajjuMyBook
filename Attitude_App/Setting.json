@@ -17,10 +17,10 @@
       "admob_video_id": "",
       
       "show_ads": "yes",
-      "ads_time": 10,
-      "native_ad_count": 10,
-      "open_ad_break": 10,
-      "copy_full_ad_show": 10,
+      "ads_time": 4,
+      "native_ad_count": 8,
+      "open_ad_break": 6,
+      "copy_full_ad_show": 6,
 	  
       "video_ads_show": "no",
       "banner_ads_show": "yes",
