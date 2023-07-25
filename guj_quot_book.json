@@ -15,6 +15,7 @@
             "show_ads": "yes",
             "play_store_update": "no",
             "ads_time": 3,
+            "open_ad_break": 3,
             "img_url": "https://quotesdiary.com/uploads/images/quotes/gu/webp/",
             "native_ads_show": "yes",
             "full_ads_show": "yes",
