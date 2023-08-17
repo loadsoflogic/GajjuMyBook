@@ -28,10 +28,10 @@
       "native_ads_show": "yes",
 	  
       "my_ad_show": "no",
-      "my_ad_name": "Hindi Quotes",
-      "my_ad_des": "Hindi Quotes has the largest collection of Hindi status.",
-      "my_ad_logo": "https://play-lh.googleusercontent.com/wTKPsU5_aqbl34xMnlCDsVidUyAcItkJOD9l0DZSPVpBYaQdO4qnJcSZmsHgY5o37XU=w240-h480-rw",
-      "my_ad_pkg": "com.hindi.quotes.status"
+      "my_ad_name": "meToon",
+      "my_ad_des": "Cartoon Photo Editor.",
+      "my_ad_logo": "https://play-lh.googleusercontent.com/XF_frYtLdOORZduUKHtCzY4bCfznfd-1Rs4GjjtTLChbSS69SRHmZWUkFb2PK2x-GqM=w480-h960-r",
+      "my_ad_pkg": "metoon.cartoon.photo.edito"
     }
   ]
 }
