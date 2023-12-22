@@ -18,7 +18,7 @@
             "play_store_update": "no",
             "ads_time": 3,
             "native_ads_show": "yes",
-            "full_ads_show": "yes"
+            "full_ads_show": "no"
         },
         {
             "app_version": "meToon",
