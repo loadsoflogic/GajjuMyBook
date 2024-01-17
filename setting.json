@@ -21,10 +21,10 @@
             "full_ads_show": "yes"
         },
         {
-            "app_version": "meToon",
-            "update_title": "https://play-lh.googleusercontent.com/XF_frYtLdOORZduUKHtCzY4bCfznfd-1Rs4GjjtTLChbSS69SRHmZWUkFb2PK2x-GqM=w480-h960-rw",
-            "update_des": "metoon.cartoon.photo.editor",
-            "app_stop": "no",
+            "app_version": "Gujarati Suvichar",
+            "update_title": "https://play-lh.googleusercontent.com/Z7Hiio7adOJrG4C1W06H5vq4hywKM21a7mMA8Xssnd073-3xvNxOI0Zi1BzyKUJXiQ=w240-h480-rw",
+            "update_des": "gujarati.suvichar.status.shayari.quotes",
+            "app_stop": "yes",
             "app_stop_title": 1,
             "app_stop_des": 1,
             "home_fs_img": 1,
