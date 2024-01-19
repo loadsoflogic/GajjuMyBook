@@ -16,6 +16,7 @@
       "show_ads": "yes",
       "play_store_update": "no",
       "ads_time": 3,
+      "open_ad_break": 2,
       "video_ads_show": "yes",
       "banner_ads_show": "yes",
       "full_ads_show": "yes",
