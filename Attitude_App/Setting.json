@@ -23,9 +23,9 @@
       "copy_full_ad_show": 6,
 	  
       "video_ads_show": "no",
-      "banner_ads_show": "yes",
+      "banner_ads_show": "no",
       "full_ads_show": "yes",
-      "native_ads_show": "yes",
+      "native_ads_show": "no",
 	  
       "my_ad_show": "no",
       "my_ad_name": "meToon",
