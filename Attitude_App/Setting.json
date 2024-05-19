@@ -19,12 +19,12 @@
       "show_ads": "yes",
       "ads_time": 4,
       "native_ad_count": 12,
-      "open_ad_break": 15,
-      "copy_full_ad_show": 16,
+      "open_ad_break": 5,
+      "copy_full_ad_show": 6,
 	  
       "video_ads_show": "no",
-      "banner_ads_show": "no",
-      "full_ads_show": "no",
+      "banner_ads_show": "yes",
+      "full_ads_show": "yes",
       "native_ads_show": "no",
 	  
       "my_ad_show": "no",
