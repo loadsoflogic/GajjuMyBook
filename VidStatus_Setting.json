@@ -1,7 +1,7 @@
 {
   "data": [
     {
-      "app_version": 10,
+      "app_version": 11,
       "update_title": "App Update",
       "update_des": "\nPlease Upgrade your App.\r\n\r\nThank you...",
       "app_stop": "no",
